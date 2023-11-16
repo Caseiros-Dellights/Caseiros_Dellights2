@@ -1,0 +1,18 @@
+.dichesContainer {
+    max-width: 100%;
+    display: flex;
+    margin: 0 0.5rem;
+    gap: 2rem;
+    justify-content: space-between;
+  }
+
+h2 {
+  color: #E9967A;
+}
+
+
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 14px;
+  }
+}
